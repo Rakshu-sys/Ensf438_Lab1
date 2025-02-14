@@ -6,7 +6,7 @@
 |-----------------|
 | Mohit Kaila                |   
 | Rakshita Suri              |   
-| Student 3 name               |   
+| Okibe Abang               |   
 | Student 4 name                |   
 
 
