@@ -47,13 +47,13 @@ its behavior and identifying possible defects. Unlike manual functional testing,
 set script, exploratory testing is flexible and adapts as new issues are discovered.
 To keep the testing process organized, the system was broken down into key functions:
 
-• System startup and shutdown
-• Card validation and PIN entry
-• Withdrawals, deposits, and transfers
-• Balance inquiries
-• Transaction failures and errors
-• Receipt generation
-• Operator functions and logs
+• System startup and shutdown  
+• Card validation and PIN entry  
+• Withdrawals, deposits, and transfers  
+• Balance inquiries  
+• Transaction failures and errors  
+• Receipt generation  
+• Operator functions and logs  
 
 Each function was tested individually to ensure comprehensive coverage. Critical areas, such as 
 security-related functions (PIN entry and account validation), were tested more thoroughly. The 
