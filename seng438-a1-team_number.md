@@ -74,6 +74,11 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
+Pairs : 
+
+Mohit & Rakshita 
+Okibe & Shalin 
+
 Our team had 4 members that worked together by splitting into pairs to manage testing effectively:
 - In each pair, one person ran the tests and found any issues, while the other recorded the problems and double-checked everything.
 - We switched roles often so that everyone got a chance to do both testing and documentation.
@@ -84,7 +89,16 @@ Our team had 4 members that worked together by splitting into pairs to manage te
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+Challenges faced during the lab included:
+• Understanding the SUT functionality: Overcome by reviewing documentation and
+experimenting with features
+• Identifying and categorizing defects: Improved through collaboration and peer feedback
+• Efficiently using the defect tracking system: Learned by exploring its functionalities and
+refining report entries
+Lessons learned:
+• Exploratory testing requires critical thinking and adaptability
+• Clear defect documentation improves issue resolution efficiency
+• Collaboration enhances testing effectiveness and knowledge sharing
 
 # Comments/feedback on the lab and lab document itself
 
