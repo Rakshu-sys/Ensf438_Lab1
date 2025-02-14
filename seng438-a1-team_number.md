@@ -46,6 +46,7 @@ predefined test cases. This method allowed testers to freely interact with the s
 its behavior and identifying possible defects. Unlike manual functional testing, which follows a 
 set script, exploratory testing is flexible and adapts as new issues are discovered.
 To keep the testing process organized, the system was broken down into key functions:
+
 • System startup and shutdown
 • Card validation and PIN entry
 • Withdrawals, deposits, and transfers
@@ -53,6 +54,7 @@ To keep the testing process organized, the system was broken down into key funct
 • Transaction failures and errors
 • Receipt generation
 • Operator functions and logs
+
 Each function was tested individually to ensure comprehensive coverage. Critical areas, such as 
 security-related functions (PIN entry and account validation), were tested more thoroughly. The 
 team members tested different parts of the system independently and then combined their 
