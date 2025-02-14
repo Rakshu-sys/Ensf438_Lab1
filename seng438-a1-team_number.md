@@ -33,12 +33,31 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+This lab focused on different software testing methodologies, specifically exploratory and 
+manual functional testing. Before this lab, we understood exploratory testing as an unscripted 
+testing approach where testers freely navigate the application to discover defects. we also knew 
+manual functional testing as a structured testing approach, where predefined test cases are 
+executed to validate system functionality against requirements.
 
 # High-level description of the exploratory testing plan
 
-Text…
+Exploratory testing was used to evaluate the ATM simulation system without following 
+predefined test cases. This method allowed testers to freely interact with the system, observing 
+its behavior and identifying possible defects. Unlike manual functional testing, which follows a 
+set script, exploratory testing is flexible and adapts as new issues are discovered.
+To keep the testing process organized, the system was broken down into key functions:
+• System startup and shutdown
+• Card validation and PIN entry
+• Withdrawals, deposits, and transfers
+• Balance inquiries
+• Transaction failures and errors
+• Receipt generation
+• Operator functions and logs
+Each function was tested individually to ensure comprehensive coverage. Critical areas, such as 
+security-related functions (PIN entry and account validation), were tested more thoroughly. The 
+team members tested different parts of the system independently and then combined their 
+findings to ensure no defects were missed. Peer reviews helped refine defect reports, making sure 
+all issues were well-documented and reproducible.
 
 # Comparison of exploratory and manual functional testing
 
