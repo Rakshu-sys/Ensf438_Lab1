@@ -75,12 +75,12 @@ Text…
 # How the pair testing was managed and team work/effort was divided 
 
 Our team had 4 members that worked together by splitting into pairs to manage testing effectively:
-In each pair, one person ran the tests and found any issues, while the other recorded the problems and double-checked everything.
-We switched roles often so that everyone got a chance to do both testing and documentation.
-For exploratory testing, we worked in pairs by taking 15-minute turns—one person tested while the other reviewed the work.
-During manual functional testing (MFT), we divided 40 test cases between the two pairs, with each person handling 10 cases.
-We used the same approach for regression testing to make sure all areas were covered and tested well.
-This teamwork helped us find important issues early, understand the system better, and be well-prepared for the demo.
+- In each pair, one person ran the tests and found any issues, while the other recorded the problems and double-checked everything.
+- We switched roles often so that everyone got a chance to do both testing and documentation.
+- For exploratory testing, we worked in pairs by taking 15-minute turns—one person tested while the other reviewed the work.
+- During manual functional testing (MFT), we divided 40 test cases between the two pairs, with each person handling 10 cases.
+- We used the same approach for regression testing to make sure all areas were covered and tested well.
+- This teamwork helped us find important issues early, understand the system better, and be well-prepared for the demo.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
