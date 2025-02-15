@@ -62,7 +62,13 @@ findings to ensure no defects were missed. Peer reviews helped refine defect rep
 all issues were well-documented and reproducible.
 
 # Comparison of exploratory and manual functional testing
-
+| **Aspect**          | **Exploratory Testing**                     | **Manual Functional Testing**               |
+|---------------------|---------------------------------|----------------------------------|
+| **Approach**       | Unscripted, intuitive          | Scripted, follows predefined test cases |
+| **Flexibility**    | High                           | Low                                  |
+| **Coverage**       | Unpredictable, depends on tester's skills | Systematic, covers specified requirements |
+| **Efficiency**     | Fast for uncovering unknown issues | Ensures thorough validation of expected functionalities |
+| **Documentation**  | Minimal, relies on defect tracking reports | Detailed, test cases and reports are required |
 
 
 # Notes and discussion of the peer reviews of defect reports
@@ -100,11 +106,11 @@ Challenges faced during the lab included:
 
 • Efficiently using the defect tracking system: Learned by exploring its functionalities and refining report entries
 
-Lessons learned:
+Lessons learned:  
 
-• Exploratory testing requires critical thinking and adaptability
-• Clear defect documentation improves issue resolution efficiency
-• Collaboration enhances testing effectiveness and knowledge sharing
+• Exploratory testing requires critical thinking and adaptability  
+• Clear defect documentation improves issue resolution efficiency  
+• Collaboration enhances testing effectiveness and knowledge sharing  
 
 # Comments/feedback on the lab and lab document itself
 
