@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
-|-----------------|
-| Mohit Kaila                |   
-| Rakshita Suri              |   
+| Group: Group Number|
+|--------------------|
+| Mohit Kaila               |   
+| Rakshita Suri             |   
 | Okibe Abang               |   
-| Student 4 name                |   
+| Shalin Wickremeratna      |   
 
 
 **Table of Contents**
