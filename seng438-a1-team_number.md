@@ -69,7 +69,7 @@ all issues were well-documented and reproducible.
 
 Peer review of defect reports was essential in improving report clarity and accuracy. 
 
-Some common feedback included:
+Some common feedback included:  
 • Improving defect descriptions for better reproducibility  
 • Providing clearer steps to reproduce issues  
 • Ensuring defect severity levels were appropriately assigned  
