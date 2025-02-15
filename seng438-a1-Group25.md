@@ -73,9 +73,10 @@ all issues were well-documented and reproducible.
 
 # Notes and discussion of the peer reviews of defect reports
 
-Peer review of defect reports was essential in improving report clarity and accuracy. 
+Peer review of defect reports was essential in improving report clarity and accuracy. In our experience, we found that peer reports helped consolidate certain issues, provided a second pair of eyes to spot simple mistakes and enhanced our collaborative capabilities.
 
 Some common feedback included:  
+
 • Improving defect descriptions for better reproducibility  
 • Providing clearer steps to reproduce issues  
 • Ensuring defect severity levels were appropriately assigned  
@@ -83,12 +84,13 @@ Some common feedback included:
 
 # How the pair testing was managed and team work/effort was divided 
 
-Pairs : 
+Pairs: 
 
 Mohit & Rakshita 
 Okibe & Shalin 
 
 Our team had 4 members that worked together by splitting into pairs to manage testing effectively:
+
 - In each pair, one person ran the tests and found any issues, while the other recorded the problems and double-checked everything.
 - We switched roles often so that everyone got a chance to do both testing and documentation.
 - For exploratory testing, we worked in pairs by taking 15-minute turns—one person tested while the other reviewed the work.
@@ -109,7 +111,9 @@ Challenges faced during the lab included:
 Lessons learned:  
 
 • Exploratory testing requires critical thinking and adaptability  
-• Clear defect documentation improves issue resolution efficiency  
+
+• Clear defect documentation improves issue resolution efficiency
+
 • Collaboration enhances testing effectiveness and knowledge sharing  
 
 # Comments/feedback on the lab and lab document itself
